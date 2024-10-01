@@ -4,10 +4,13 @@ I am a machine learning who has a particular interest into creating mathematical
 
 I am from a generalist Engineering School, and as such I define myself as a generalist and polyvalent AI Engineer, used to work from conception to production.
 
-Soon I will start my own IA company. Now, I am considering my next position.
+Soon I will start my own IA company. Now, I am currently considering my next position.
 
 
-### ⚡ Technologies
+
+
+### ⚡ Technologies | GitHub Stats | GitHub Trophies
+
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -29,6 +32,7 @@ Soon I will start my own IA company. Now, I am considering my next position.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simondharcourt&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Simondharcourt&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&bg_color=00000000)
 
+![](https://github-profile-trophy.vercel.app/?username=Simondharcourt&theme=onedark)
 
 <!--
 **Simondharcourt/Simondharcourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
