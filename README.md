@@ -4,7 +4,7 @@ I am a machine learning who has a particular interest into creating mathematical
 
 I am from a generalist Engineering School, and as such I define myself as a generalist and polyvalent AI Engineer, used to work from conception to production.
 
-One day, I will start my own IA company. Now, I am currently considering my next position.
+One day, I will start my own AI company. Now, I am currently considering my next position.
 
 
 ### ⚡ Technologies | GitHub Stats | GitHub Trophies
