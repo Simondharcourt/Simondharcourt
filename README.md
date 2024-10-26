@@ -6,6 +6,9 @@ I am from a generalist Engineering School, and as such I define myself as a gene
 
 One day, I will start my own AI company. Now, I am currently considering my next position.
 
+Play my games: 
+- https://simondharcourt.github.io/djambi6players/
+- https://simondharcourt.github.io/djambi2players/
 
 ### ⚡ Technologies | GitHub Stats | GitHub Trophies
 
