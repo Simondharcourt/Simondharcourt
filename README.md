@@ -2,14 +2,24 @@
 
 I am a machine learning who has a particular interest into creating mathematical games, and resolving them with AI.
 
-I am from a generalist Engineering School, and as such I define myself as a generalist and polyvalent AI Engineer, used to work from conception to production.
+I am from a generalist Engineering School, and as such I define myself as a polyvalent AI Engineer, used to work from conception to production.
 
-One day, I will start my own AI company. Now, I am currently considering my next position.
+I, above all, consider myself as a curious person and a fast-learner.
 
-Play my games: 
+#### Play my games: 
 - https://simondharcourt.github.io/djambi6players/
 
-### ⚡ Technologies | GitHub Stats | GitHub Trophies
+One day, I will start my own AI company. Now, I am currently looking for my next position. Feel free to reach me !
+
+#### 📫 Contact | Portfolio
+- mail: simondharcourt@gmail.com
+- linkedin: [/Simon-dharcourt](https://www.linkedin.com/in/simon-dharcourt/)
+- github: [/Simondharcourt](https://github.com/Simondharcourt/)
+- kaggle: [/simondharcourt](https://www.kaggle.com/simondharcourt)
+
+
+
+#### ⚡ Technologies | GitHub Stats | GitHub Trophies
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -39,12 +49,6 @@ Play my games:
 ![](https://github-profile-trophy.vercel.app/?username=Simondharcourt&theme=onedark)
 
 
-
-### 📫 Contact | Portfolio
-- mail: simondharcourt@gmail.com
-- linkedin: [/Simon-dharcourt](https://www.linkedin.com/in/simon-dharcourt/)
-- github: [/Simondharcourt](https://github.com/Simondharcourt/)
-- kaggle: [/simondharcourt](https://www.kaggle.com/simondharcourt)
 
 <!--
 **Simondharcourt/Simondharcourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
