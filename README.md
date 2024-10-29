@@ -8,7 +8,6 @@ One day, I will start my own AI company. Now, I am currently considering my next
 
 Play my games: 
 - https://simondharcourt.github.io/djambi6players/
-- https://simondharcourt.github.io/djambi2players/
 
 ### ⚡ Technologies | GitHub Stats | GitHub Trophies
 
