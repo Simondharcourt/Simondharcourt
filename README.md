@@ -3,8 +3,6 @@
 #### 📫 Contact | Portfolio
 - mail: simondharcourt@gmail.com
 - linkedin: [/Simon-dharcourt](https://www.linkedin.com/in/simon-dharcourt/)
-- github: [/Simondharcourt](https://github.com/Simondharcourt/)
-- kaggle: [/simondharcourt](https://www.kaggle.com/simondharcourt)
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simondharcourt&theme=dark)
