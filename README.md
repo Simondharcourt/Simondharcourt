@@ -3,14 +3,15 @@
 #### 📫 Contact | Portfolio
 - mail: simondharcourt@gmail.com
 - linkedin: [/Simon-dharcourt](https://www.linkedin.com/in/simon-dharcourt/)
-- 
+
+#### few projects for fun
+- https://simondharcourt.github.io/djambi6players/
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simondharcourt&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Simondharcourt&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&bg_color=00000000)
 
 ![](https://github-profile-trophy.vercel.app/?username=Simondharcourt&theme=onedark)
 
-### few projects for fun
-- https://simondharcourt.github.io/djambi6players/
 
 
 <!--
